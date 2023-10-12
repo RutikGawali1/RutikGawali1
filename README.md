@@ -1,4 +1,4 @@
-![logo](Black Minimal Motivation Quote LinkedIn Banner.png)
+![logo](https://github.com/RutikGawali1/RutikGawali1/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rutik Gawali</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=Profile%20views&color=0e75b6&style=flat" alt="rutikgawali1" /> </p>
