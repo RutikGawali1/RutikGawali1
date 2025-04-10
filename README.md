@@ -1,7 +1,6 @@
 ![logo](https://github.com/RutikGawali1/RutikGawali1/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rutik Gawali</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=Profile%20views&color=0e75b6&style=flat" alt="rutikgawali1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rutikgawali" target="blank"><img src="https://img.shields.io/twitter/follow/rutikgawali?logo=twitter&style=for-the-badge" alt="rutikgawali" /></a> </p>
 
@@ -24,14 +23,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Rutik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rutik" /></a></p><br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RutikGawali1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RutikGawali1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=RutikGawali1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutikgawali1&show_icons=true&locale=en&layout=compact" alt="rutikgawali1" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&locale=en" alt="rutikgawali1" /></p>
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rutikgawali1&" alt="rutikgawali1" /></p>
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=Profile%20views&color=0e75b6&style=flat" alt="rutikgawali1" /> </p>
