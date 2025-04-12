@@ -23,9 +23,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Rutik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rutik" /></a></p><br><br>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutikgawali1&show_icons=true&locale=en&layout=compact" alt="rutikgawali1" /></p>
+<div align="center">
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutikgawali1&show_icons=true&locale=en&layout=compact" alt="rutikgawali1" /></div>  
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&locale=en" alt="rutikgawali1" /></p>
+<div align="center">
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&locale=en" alt="rutikgawali1" /></div>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rutikgawali1&" alt="rutikgawali1" /></p>
 ###
