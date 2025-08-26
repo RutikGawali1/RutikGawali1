@@ -1,15 +1,17 @@
 ![logo](https://github.com/RutikGawali1/RutikGawali1/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rutik Gawali</h1>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=Profile%20views&color=0e75b6&style=flat" alt="rutikgawali1" /> 
-</p>
+<div align="center">
 
-<p align="left"> 
-  <a href="https://twitter.com/rutikgawali" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rutikgawali?logo=twitter&style=for-the-badge" alt="rutikgawali" />
-  </a> 
-</p>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=👀 Profile Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+  <!-- Twitter Follow -->
+  <a href="https://twitter.com/rutikgawali" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/rutikgawali?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Follow @rutikgawali" />
+  </a>
+
+</div>
 
 - 🌱 I’m currently learning **Cloud**  
 - 👨‍💻 All of my projects are available at [RutikGawali1](https://github.com/RutikGawali1)  
