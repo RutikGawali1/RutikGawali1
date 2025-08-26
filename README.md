@@ -53,10 +53,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
   </a>
 
-  <!-- Donut Chart of Languages -->
-  <a href="https://github.com/rutikgawali1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgawali1&layout=donut&theme=tokyonight&hide_border=true" height="180px"/>
-  </a>
+  <!-- Donut Chart with Center Text -->
+  <div style="position: relative; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgawali1&layout=donut&theme=tokyonight&hide_border=true" height="250px"/>
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 18px; color: white;">
+      🚀 Rutik
+    </div>
+  </div>
 
   <!-- Streak Stats -->
   <a href="https://github.com/rutikgawali1">
