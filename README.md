@@ -2,16 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Rutik Gawali</h1>
 <div align="center">
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=👀 Profile Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-  <!-- Twitter Follow -->
+  <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=👀 Profile Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rutikgawali1?label=Followers&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/stars/rutikgawali1?label=Stars&style=for-the-badge&color=yellow" />
   <a href="https://twitter.com/rutikgawali" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rutikgawali?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Follow @rutikgawali" />
+    <img src="https://img.shields.io/twitter/follow/rutikgawali?logo=twitter&style=for-the-badge&color=1DA1F2" />
   </a>
-
+  <a href="https://www.linkedin.com/in/rutikgawali/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </div>
+
 
 - 🌱 I’m currently learning **Cloud**  
 - 👨‍💻 All of my projects are available at [RutikGawali1](https://github.com/RutikGawali1)  
