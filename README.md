@@ -53,9 +53,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
   </a>
 
-  <!-- Donut Chart of Languages -->
+  <!-- Thicker Donut Chart of Languages -->
   <a href="https://github.com/rutikgawali1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgawali1&layout=donut&theme=tokyonight&hide_border=true" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgawali1&layout=donut-vertical&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
 
   <!-- Streak Stats -->
