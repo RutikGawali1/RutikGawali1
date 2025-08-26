@@ -26,7 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Add your icons here (same as before) -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -49,15 +48,17 @@
 
 <div align="center">
 
-  <!-- Row 1 -->
+  <!-- GitHub Stats -->
   <a href="https://github.com/rutikgawali1">
     <img src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
   </a>
+
+  <!-- Donut Chart of Languages -->
   <a href="https://github.com/rutikgawali1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rutikgawali1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgawali1&layout=donut&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
 
-  <!-- Row 2 -->
+  <!-- Streak Stats -->
   <a href="https://github.com/rutikgawali1">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rutikgawali1&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
