@@ -55,7 +55,7 @@
 
   <!-- Donut Chart of Languages -->
   <a href="https://github.com/rutikgawali1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgawali1&layout=donut&theme=tokyonight&hide_border=true" height="180px" width="300px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgawali1&layout=donut&theme=tokyonight&hide_border=true" height="180px" width="500px"/>
   </a>
 
   <!-- Streak Stats -->
