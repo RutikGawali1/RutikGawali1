@@ -2,16 +2,28 @@
 
 <h1 align="center">Hi 👋, I'm Rutik Gawali</h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=👀 Profile Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rutikgawali1?label=Followers&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/github/stars/rutikgawali1?label=Stars&style=for-the-badge&color=yellow" />
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=rutikgawali1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/rutikgawali1?label=Followers&style=flat-square&color=brightgreen" alt="GitHub Followers" />
+
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/rutikgawali1?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+
+  <!-- Twitter -->
   <a href="https://twitter.com/rutikgawali" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rutikgawali?logo=twitter&style=for-the-badge&color=1DA1F2" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Follow @rutikgawali" />
   </a>
-  <a href="https://www.linkedin.com/in/rutikgawali/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rutik-gawali-aa6674207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
 </div>
+
 
 
 - 🌱 I’m currently learning **Cloud**  
