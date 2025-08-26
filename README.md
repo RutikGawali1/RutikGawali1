@@ -12,16 +12,6 @@
   <!-- GitHub Stars -->
   <img src="https://img.shields.io/github/stars/rutikgawali1?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
 
-  <!-- Twitter -->
-  <a href="https://twitter.com/rutikgawali" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Follow @rutikgawali" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rutik-gawali-aa6674207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
 </div>
 
 
