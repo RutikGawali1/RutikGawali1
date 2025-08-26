@@ -15,18 +15,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&locale=en" alt="rutikgawali1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutikgawali1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
 </p>
 
 ---
 
-### 🥇 GitHub Contribution Donut Chart
+### 🍩 Most Used Languages (Donut Chart)
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rutikgawali1&repo=donut-chart" 
-    alt="donut chart" 
-    style="border-radius:50%; border:4px solid #0e75b6; width:400px; height:400px;" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikgawali1&layout=donut&theme=tokyonight&hide_border=true" width="400" height="400" style="border: 4px solid #0e75b6; border-radius: 50%;" />
 </p>
 
 ---
